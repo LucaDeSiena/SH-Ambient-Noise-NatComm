@@ -20,7 +20,7 @@ The simulation will produce a video showing noise propagation, a figure showing 
 
 **Simulation Time**
 ------------
-Each simulation takes about ?? on a Macbook Pro, 2,3 GHz, 8-Core Intel Core i9 with 32 Gb of memory.
+Each simulation takes about 2 hours and 15 minutes on a Macbook Pro, 2,3 GHz, 8-Core Intel Core i9 with 32 Gb of memory.
 
 **Reproduction Instructions**
 ------------
