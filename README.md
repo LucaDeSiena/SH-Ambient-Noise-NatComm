@@ -17,3 +17,11 @@ The simulation works in Matlab version 2019a and should not require any addition
 **Outputs**
 ------------
 The simulation will produce a video showing noise propagation, a figure showing the variations of shear modulus, and a .mat file containig the simulated noise data at all stations considered.
+
+**Simulation Time**
+------------
+Each simulation takes about ?? on a Macbook Pro, 2,3 GHz, 8-Core Intel Core i9 with 32 Gb of memory.
+
+**Reproduction Instructions**
+------------
+To reproduce the panels in Extended Data Fig. 8a,b, use the ...
