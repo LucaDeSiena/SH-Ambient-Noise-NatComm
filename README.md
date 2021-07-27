@@ -24,4 +24,4 @@ Each simulation takes about ?? on a Macbook Pro, 2,3 GHz, 8-Core Intel Core i9 w
 
 **Reproduction Instructions**
 ------------
-To reproduce the panels in Extended Data Fig. 8a,b, use the ...
+To reproduce the panels in Extended Data Fig. 8a,b, use the codes in Folder Modellin/FigureED8. This contains the results of the Data Processing folder (available in the in the [Open Science Framework](https://osf.io/kqtbp/)). The codes were applied to the simulated noise data in .mat format. 
