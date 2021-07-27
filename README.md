@@ -10,7 +10,7 @@ The simulation works in Matlab version 2019a and should not require any addition
 ------------
 1) Download the package.
 2) Enter folder Modelling.
-3) 3) Enter the folder corresponding to the source distribution you want to simulate (FarLine or NearCoastline).
+3) Enter the folder corresponding to the source distribution you want to simulate (FarLine or NearCoastline).
 4) Enter the folder corresponding to either the homogeneous or heterogeneous case.
 5) Run the file *CF_noise_sources_?.m* where *?* corresponds either to *Line* or *CircleN*.
 
