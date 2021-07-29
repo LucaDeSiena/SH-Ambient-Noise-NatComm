@@ -4,19 +4,19 @@ The ambient noise modelling codes developed for the paper *Fluid migrations and 
 
 Installation
 ------------
-The simulation works in Matlab version 2019a and should not require any additional toolbox.
+The simulation works in Matlab version 2019a and requires the Image Processing, Mapping and Wavelet toolboxes.
 
 **Use** 
 ------------
 1) Download the package.
-2) Enter folder Modelling.
+2) Enter the folder Modelling.
 3) Enter the folder corresponding to the source distribution you want to simulate (FarLine or NearCoastline).
 4) Enter the folder corresponding to either the homogeneous or heterogeneous case.
 5) Run the file *CF_noise_sources_?.m* where *?* corresponds either to *Line* or *CircleN*.
 
 **Outputs**
 ------------
-The simulation will produce a video showing noise propagation, a figure showing the variations of shear modulus, and a .mat file containig the simulated noise data at all stations considered.
+The simulation will produce a video showing noise propagation (.avi), a figure showing the variations of shear modulus (.tiff), and a .mat file containig the simulated noise data at all stations considered (.mat) and a figure representing the corresponding seismograms (.fig).
 
 **Simulation Time**
 ------------
