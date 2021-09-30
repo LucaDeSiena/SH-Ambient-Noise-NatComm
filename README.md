@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/388130635.svg)](https://zenodo.org/badge/latestdoi/388130635)
+
 SH-wave simulation code for ambient noise polarization
 =======
 The ambient noise modelling codes developed for the paper *Fluid migrations and volcanic earthquakes from depolarized ambient noise*, submitted to Nature: Communications and available as pre-print on [Research Square](https://www.researchsquare.com/article/rs-470597/v1)
